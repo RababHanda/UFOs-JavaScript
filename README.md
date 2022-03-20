@@ -16,7 +16,7 @@ The following page open once the html file is opened
 ![Intro of the webpage](/Resources/intro.png)
 
 <p align="left">
-<img src="/Resources/filter_format.png" width="75%" height="75%">
+<img src="/Resources/intro.png" width="75%" height="75%">
 </p>
 
 ##### Use the Filter(s)
@@ -25,13 +25,12 @@ Scroll down a little to view all the filtering option on the left hand side of t
 The filter is designed to be able to take anywhere from 0 to 5 filters at a time. Without an filters, all the data will appear and the user can scroll through if they wish to take a look at the entirety of the table.
 
 The format that each filter needs to be entered in is already highlighted in the tabs, follow the format and enter the attribute you'd like to filter by:
-![Filter format](/Resources/filter_format.png)
-
-Hit *enter* to update the filtered table
 
 <p align="left">
-<img src="/Resources/filter_format.png" width="25%" height="60%">
+<img src="/Resources/filter_format.png" width="30%" height="70%">
 </p>
+
+Hit *enter* to update the filtered table
 
 ##### Results of the Filter(s)
 

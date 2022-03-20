@@ -13,7 +13,6 @@ This project represents data of UFO sightings in a tabular format on webpage. Th
 
 ##### Parts of the Webpage
 The following page open once the html file is opened
-![Intro of the webpage](/Resources/intro.png)
 
 <p align="left">
 <img src="/Resources/intro.png" width="75%" height="75%">
